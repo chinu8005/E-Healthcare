@@ -1,0 +1,54 @@
+//Flowchart   
+Welcome TO E-Healthcare Management 
+  -Login
+    -Enter Password
+       Right password > Access Granted
+       Wrong Password > Access Denied
+  -Main Menu
+    -Add New Patient Info
+      -Age; Gender; Old Diagnosis; Blood Group; Allergies; Previous Consulted Doctor;
+    -Existing Patient Info
+      -Age*; Gender*; Old Diagnosis*; Blood Group*; Allergies*; Previous Consulted Doctor*;
+    -Find Hospitals
+      -Address
+      -Phone Number
+      -Emergency Contact
+    -COVID-19 Information
+      -Guidelines/SOPs
+        -INFORMATION 
+      -Precautions by **WHO**
+        -LINK(WHO link add)
+      -Book a slot for COVID-19 Vaccine
+        -COWIN Vaccine registration Link
+      -Emergency Services
+        -On Road Accident Helpline
+          -Contact Number
+        -Ambulance Service
+      -Book Appointment
+        -Consult Doctor
+          -Your Info (Output:Appointment date)
+      -Offline Service
+        -What are you suffering from?
+          --Headache
+             -
+          --Cold
+             -
+          --Wound Help
+             -
+          --Vomit
+             -
+          --Unconsciousness
+             -
+          --Dehydrated
+             -Give ORS
+             -Sit under Shadow
+             -Consult Nearby Doctor
+       -Exit
+         -Thank You 
+         -COPYRIGHT © by CHINMAY; AVADH; SAKET; PRAJWAL;
+         -Customer Support 
+            -Twitter
+               -LINK
+            -Email Us @abc@gmail.com
+         
+      
